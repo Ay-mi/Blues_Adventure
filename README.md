@@ -8,7 +8,7 @@ Given my budding experience in game development, I decided to develop an RPG gam
 My main character, Blue, travels across several terrains in order to find ingredients for his medicine. At the end of the journey, he recovers without needing the medicine. In reality, all he needed was some grass and sunlight. 
 
 ## Game Design and Interface
-The main game design is quite simple. All of the background images were outsourced and even Blue was discovered in piskelapp.com as a jumping shadow draped in a red cape. The only assests I claim as mine are the three herbs which I drew by hand (mouse really) using libresprite.
+The main game design is quite simple. All of the background images were outsourced and even Blue was discovered in piskelapp.com as a jumping shadow draped in a red cape. The only assests I claim as mine are the three herbs which I drew by hand (mouse really) using libresprite and the green and blue platforms Blue runs on.
 The game was designed entirely in the Kaplay playground. Once the game was complete, it was exported to HTML5 format and uploaded onto itch.io for judging. (Partial pitch deck above)
 
 ## Images
