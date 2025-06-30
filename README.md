@@ -10,10 +10,10 @@ My main character, Blue, travels across several terrains in order to find ingred
 The main game design is quite simple. All of the background images were outsourced and even Blue was orinally a shadow in a red cape jumping in piskelapp.com.
 
 ## Images
-<img src="https://github.com/user-attachments/assets/fe956415-3a19-46be-8010-2479b1fb5579" width=400>
-<img src="https://github.com/user-attachments/assets/fdc97c56-44ee-47ed-ae36-980306c7fa89" width=400>
+
 <img src="https://github.com/user-attachments/assets/c4e8af1d-4e82-4632-bf66-57cc16987283" width=400>
+<img src="https://github.com/user-attachments/assets/a534f5de-ddbe-48f7-9c83-6edb86b60f09" width=400>
 <img src="https://github.com/user-attachments/assets/afde9094-3eda-44a5-9f4e-75643e904759" width=400>
 <img src="https://github.com/user-attachments/assets/2cbfec62-44a3-4e95-b767-645b0b7193d8" width=400>
-<img src="https://github.com/user-attachments/assets/8f20074e-4bdd-4761-85b9-485226bada0b" width=400>
-
+<img src="https://github.com/user-attachments/assets/fe956415-3a19-46be-8010-2479b1fb5579" width=400>
+<img src="https://github.com/user-attachments/assets/fdc97c56-44ee-47ed-ae36-980306c7fa89" width=400>
