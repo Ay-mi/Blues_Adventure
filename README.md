@@ -1,6 +1,6 @@
 # MMU GDC Game Jam 2025
 From May 23 to May 25th 2025, I competed in my first ever game jam. 
-My only experience in game making before this were a few retro games designed in Java with a simple interface (youtube tutorials) and one C++ game which was only playable in the VS Code terminal. For this game however, I decided to try a new framework and library. I used Javascript and the Kaplay library to design and program the game. Kaplay is beginner friendly and handles most of the game physics for the programmer. 
+My only experience in game making before this were a few retro games designed in Java with a simple interface (youtube tutorials) and one C++ game which was only playable in the VS Code terminal. For this game however, I decided to try a new language and library. I used Javascript and the Kaplay library to design and program the game. Kaplay is beginner friendly and handles most of the game physics for the programmer. 
 
 ## Blue's Adventure
 The theme of the game jam was "It's not about the destination."
